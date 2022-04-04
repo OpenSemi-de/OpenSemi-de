@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @OpenSemi-de, I'm the repository of www OpenSemi.de
+- 👋 Hi, I’m @OpenSemi-de, I'm the repository of www.OpenSemi.de
